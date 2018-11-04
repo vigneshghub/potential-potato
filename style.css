@@ -1,0 +1,28 @@
+
+.big {
+    font-size: 1.75em;
+    font-family: 'Roboto', sans-serif;
+    text-rendering: optimizeLegibility;
+    padding: 0px;
+}
+.clr{
+    color: royalblue;
+   
+}
+.clrs{
+    color: lightcoral;
+    
+}
+.ctr {
+    text-align: center;
+}
+.circle-img {
+    
+        border-radius: 50%;
+   
+}
+
+.hrc{
+    border: solid;
+    color: royalblue;
+}
